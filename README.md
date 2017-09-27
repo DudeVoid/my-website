@@ -12,7 +12,11 @@ After you've installed express and body-parser, you're finished! Type `node serv
 
 Do **not** include the `< >` when you're typing `localhost:<port>`
 
+
+
 Example of what you should do:
+
 `localhost:3000`
+
 
 In the example above, `3000` is the port. It doesn't have to be 3000, it could be something else. That's just an example. 
