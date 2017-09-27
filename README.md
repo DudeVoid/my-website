@@ -20,3 +20,8 @@ Example of what you should do:
 
 
 In the example above, `3000` is the port. It doesn't have to be 3000, it could be something else. That's just an example. 
+
+# Reporting bugs/issues
+Make a PR/edit request. If it's more of a serious issue that you need to discuss with me, my email can be found here:
+
+`void@void.cool`
