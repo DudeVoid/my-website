@@ -1,0 +1,20 @@
+* {
+font-family: 'Open Sans', sans-serif;
+}
+
+/* body {
+  background-image: url("../public/img/common/blue-purple-gradient.png");
+} */
+
+body {
+  background-color: azure;
+} 
+
+media {
+  font-weight: 700;
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36px;
+  min-width: 64px;
+  text-align: center;
+}  

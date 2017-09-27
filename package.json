@@ -1,0 +1,16 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "My personal homepage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "void",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
