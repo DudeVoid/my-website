@@ -8,4 +8,4 @@ My personal homepage
 
 `npm install express --save`
 
-After you've installed express and body-parser, you're finished! Type `node server.js` into the command window and then type `localhost:<port>` into your browser.
+After you've installed express and body-parser, you're finished! Type `node server.js` into the command window and then type `localhost:<port>` into your browser's address bar.
