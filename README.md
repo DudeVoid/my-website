@@ -9,3 +9,10 @@ My personal homepage
 `npm install express --save`
 
 After you've installed express and body-parser, you're finished! Type `node server.js` into the command window and then type `localhost:<port>` into your browser's address bar.
+
+Do **not** include the `< >` when you're typing `localhost:<port>`
+
+Example of what you should do:
+`localhost:3000`
+
+In the example above, `3000` is the port. It doesn't have to be 3000, it could be something else. That's just an example. 
